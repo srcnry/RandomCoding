@@ -2,6 +2,27 @@ package com.missingartifacts;
 
 import java.util.Scanner;
 
+/**
+ * Sample Input
+
+     10
+     1 42
+     2
+     1 14
+     3
+     1 28
+     3
+     1 60
+     1 78
+     2
+     2
+ Sample Output
+
+     14
+     14
+ */
+
+
 public class Main {
 
     public static void main(String[] args) {
